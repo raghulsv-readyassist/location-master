@@ -1,0 +1,13 @@
+.container{
+    height: 500px;
+    width: 100%;
+}
+.searchdiv{
+    color: white;
+    background-color: #f9cb33;
+}
+.main{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
